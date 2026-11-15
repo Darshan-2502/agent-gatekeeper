@@ -1,0 +1,9 @@
+Case,Agent,Action,Amount,Expected,Actual,Rule,Status
+T1,TripMind,view_fares,-,"ALLOW","ALLOW",R3,PASS
+T2,GhostBot,book,7500,"BLOCK","BLOCK",R1,PASS
+T3,TripMind,book,18400,"ASK CUSTOMER","ASK CUSTOMER",R5,PASS
+T4,TripMind,book,7500,"ALLOW","ALLOW",R4,PASS
+T5,OldBot,view_fares,-,"BLOCK","BLOCK",R2,PASS
+T6,FareScout,refund,6400,"ASK CUSTOMER","ASK CUSTOMER",R6,PASS
+T7,StaleBot,change,5000,"BLOCK","BLOCK",R7,PASS
+T8,BulkBot,book,6000,"BLOCK","BLOCK",R8,PASS
