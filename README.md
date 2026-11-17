@@ -1,5 +1,7 @@
 # Agent Gatekeeper — Air India
-**Student Enrolment No:** `2023UCS1101`  
+Repository: https://github.com/Darshan-2502/agent-gatekeeper
+Verified 15 November 2026: 8/8 in the browser self-test and 8/8 from node test_engine.mjs on my machine.
+**Student Enrolment No:** `PGD202564124`  
 **Organisation / Case:** Air India (Airline Autonomous Agent Gateway)  
 
 ---
@@ -69,7 +71,7 @@ Expected output:
 ```text
 ============================================================================================
 Agent Gatekeeper — Air India | Engine Headless Test Suite
-Enrolment No: 2023UCS1101 | Company: Air India | Money Limit: Rs. 10,000
+Enrolment No: PGD202564124 | Company: Air India | Money Limit: Rs. 10,000
 ============================================================================================
 Case  Agent       Action       Amount    Expected       Actual         Rule    Result
 --------------------------------------------------------------------------------------------
